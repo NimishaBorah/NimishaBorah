@@ -2,14 +2,11 @@
 
 # ⚡ Nimisha Borah
 
-### `AI × Web × Hardware × Logic`
-
-**Building intelligent interfaces, experimenting with AI, and turning digital ideas into real hardware.**
+**Two tracks. Two skill sets. One builder.**
 
 <p>
-  <a href="#-what-i-build"><img src="https://img.shields.io/badge/🚀_What_I_Build-111827?style=for-the-badge" alt="What I Build"></a>
-  <a href="#-featured-work"><img src="https://img.shields.io/badge/🧠_Featured_Work-7C3AED?style=for-the-badge" alt="Featured Work"></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚙️_Tech_Stack-0EA5E9?style=for-the-badge" alt="Tech Stack"></a>
+  <a href="#-ai--web-projects"><img src="https://img.shields.io/badge/🤖_AI_%26_Web-7C3AED?style=for-the-badge" alt="AI & Web"></a>
+  <a href="#-verilog--hardware"><img src="https://img.shields.io/badge/🔌_Verilog_%26_Hardware-0EA5E9?style=for-the-badge" alt="Verilog & Hardware"></a>
   <a href="#-connect"><img src="https://img.shields.io/badge/✨_Connect-F43F5E?style=for-the-badge" alt="Connect"></a>
 </p>
 
@@ -21,37 +18,13 @@
 
 ## 👋 About Me
 
-I'm an **ECE student and builder** who enjoys working at the intersection of:
-<table> <tr> <td align="center" width="33%">
-
-🤖 AI
-
-ML-powered ideas Automation Intelligent tools
-
-</td> <td align="center" width="33%">
-
-🌐 Web Apps
-
-Interactive UIs Full-stack systems Practical products
-
-</td> <td align="center" width="33%">
-
-🔌 Hardware
-
-Verilog / RTL Digital Logic Embedded Systems
-
-</td> </tr> </table>
-I like projects that don't stop at a demo — I want them to become **usable, understandable, and deployable systems**.
+I'm an **ECE student and builder**, and I keep two very different kinds of work going at once — an AI/web practice and a hardware/Verilog practice. They don't overlap much, and that's on purpose: each one gets its own space below.
 
 ---
 
-## 🚀 What I Build
+## 🤖 AI & Web Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Web Projects
+Everything here is about **software, interfaces, and intelligent systems** — building things people actually use in a browser or an app.
 
 - AI-assisted productivity tools
 - Intelligent web interfaces
@@ -60,127 +33,67 @@ I like projects that don't stop at a demo — I want them to become **usable, un
 - APIs, dashboards & data workflows
 - Practical AI features users can actually use
 
-</td>
-<td width="50%" valign="top">
+### Featured
 
-### 🔌 Verilog & Hardware
+**🐍 S.C.A.L.E. — Intelligent Snake Robot** *(RL / simulation side)*
+Slithering Cognitive Agent for Lifesaving Exploration — vision-based snake robot locomotion for disaster-rubble exploration.
+- PPO-based reinforcement learning
+- Gymnasium simulation environment
+- LiDAR-based perception, curriculum learning, domain randomization
+- Designed with future Raspberry Pi deployment in mind
+
+`Python` `PPO` `Gymnasium` `PyBullet` `LiDAR` `RL` `Robotics`
+
+**💧 Smart Irrigation — TinyML**
+An intelligent irrigation controller using sensor data to predict whether watering is required.
+
+```text
+🌱 Soil Moisture ─┐
+🌡️ Temperature ───┼──> 🧠 Decision Tree ──> 🔌 Relay ──> 💧 Pump
+💨 Humidity ───────┘
+```
+
+`TinyML` `Decision Tree` `IoT`
+
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
+
+---
+
+## 🔌 Verilog & Hardware
+
+Everything here is about **digital logic, RTL, and real hardware** — no AI, no web, just circuits and silicon.
 
 - RTL design
 - Digital logic systems
 - Verilog / HDL projects
 - FPGA-oriented development
 - Embedded systems
-- Hardware + software integration
 
-</td>
-</tr>
-</table>
+### Featured
 
----
+**☀️ Perovskite Solar Cell Simulation**
+Research-oriented simulation of 2D/3D bilayer perovskite solar cells using SCAPS-1D.
+- **PCE:** 30.17% · **Voc:** 1.3475 V · **Jsc:** 26.65 mA/cm² · **FF:** 84.02%
 
-## 🧠 My Build Philosophy
+`SCAPS-1D` `Solar Cells` `Simulation` `Materials`
 
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🔍 Research]
-    B --> C[🧩 Design]
-    C --> D[💻 Build]
-    D --> E[🧪 Test]
-    E --> F[🚀 Deploy]
-    F --> G[📈 Improve]
-    G --> B
+**🔩 Verilog / RTL Projects**
+- [`project-name`](https://github.com/NimishaBorah/project-name) — short one-line description
+- [`project-name`](https://github.com/NimishaBorah/project-name) — short one-line description
+- [`project-name`](https://github.com/NimishaBorah/project-name) — short one-line description
 
-    style A fill:#7c3aed,color:#fff,stroke:#7c3aed
-    style B fill:#2563eb,color:#fff,stroke:#2563eb
-    style C fill:#0891b2,color:#fff,stroke:#0891b2
-    style D fill:#059669,color:#fff,stroke:#059669
-    style E fill:#ca8a04,color:#fff,stroke:#ca8a04
-    style F fill:#ea580c,color:#fff,stroke:#ea580c
-    style G fill:#db2777,color:#fff,stroke:#db2777
-```
-
-> **Build something useful → make it work → make it better.**
-
----
-
-## ✨ Featured Work
-
-### 🐍 S.C.A.L.E. — Intelligent Snake Robot
-
-**Slithering Cognitive Agent for Lifesaving Exploration**
-
-A reinforcement-learning project focused on **vision-based snake robot locomotion for disaster-rubble exploration**.
-
-**Highlights**
-- PPO-based reinforcement learning
-- Gymnasium simulation environment
-- LiDAR-based perception
-- Curriculum learning
-- Domain randomization
-- Obstacle-aware locomotion
-- Exploration and navigation rewards
-- Designed with future Raspberry Pi deployment in mind
-
-`Python` `PPO` `Gymnasium` `PyBullet` `LiDAR` `RL` `Robotics`
-
----
-
-### ☀️ Perovskite Solar Cell Simulation
-
-Research-oriented simulation of **2D/3D bilayer perovskite solar cells** using SCAPS-1D.
-
-**Reported device performance**
-- **PCE:** 30.17%
-- **Voc:** 1.3475 V
-- **Jsc:** 26.65 mA/cm²
-- **FF:** 84.02%
-
-`SCAPS-1D` `Solar Cells` `Simulation` `Research` `Materials`
-
----
-
-### 💧 Smart Irrigation — TinyML + ESP32
-
-An intelligent irrigation controller using sensor data to predict whether watering is required.
-
-**System concept**
-
-```text
-🌱 Soil Moisture ─┐
-🌡️ Temperature ───┼──> 🧠 Decision Tree ──> 🔌 Relay ──> 💧 Pump
-💨 Humidity ───────┘
-                         │
-                         └──> ESP32
-```
-
-`ESP32` `TinyML` `Decision Tree` `IoT` `Embedded Systems`
-
----
-
-## ⚙️ Tech Stack
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Stable--Baselines3-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge">
-</p>
-
-### 🌐 Web / Software
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
-</p>
-
-### 🔌 Hardware / HDL
+### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Verilog-111827?style=for-the-badge">
@@ -190,12 +103,15 @@ An intelligent irrigation controller using sensor data to predict whether wateri
 <img src="https://img.shields.io/badge/Embedded-059669?style=for-the-badge">
 </p>
 
-### 🛠️ Tools
+---
+
+## ⚙️ Tools I Use Across Both
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
@@ -221,7 +137,7 @@ An intelligent irrigation controller using sensor data to predict whether wateri
 
 <div align="center">
 
-<!-- Generate this animation with the GitHub Action described below -->
+<!-- Generated via the GitHub Action set up in .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/NimishaBorah/NimishaBorah/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
 
 </div>
@@ -230,47 +146,35 @@ An intelligent irrigation controller using sensor data to predict whether wateri
 
 ## 📌 Currently Exploring
 
+**AI & Web**
 ```text
 [████████████████████░░]  AI-powered product development
 [██████████████████░░░░]  Full-stack web applications
+[████████████░░░░░░░░░░]  Reinforcement learning
+```
+
+**Hardware**
+```text
 [███████████████░░░░░░░]  Verilog & RTL design
 [██████████████░░░░░░░░]  Embedded / IoT systems
-[████████████░░░░░░░░░░]  Reinforcement learning
 ```
 
 ---
 
 ## 🎯 2026 Focus
 
-| Area | Goal |
+| Track | Goal |
 |---|---|
-| 🤖 AI | Build practical AI-powered products |
+| 🤖 AI & Web | Build practical AI-powered products |
 | 🌐 Web | Create polished, responsive applications |
-| 🔌 Hardware | Strengthen Verilog, RTL & digital design |
-| 🧠 Systems | Connect AI/software with real-world hardware |
-| 🚀 Portfolio | Turn experiments into production-quality projects |
+| 🔌 Verilog | Strengthen RTL & digital design fundamentals |
+| ⚙️ Hardware | Grow embedded systems & FPGA experience |
 
 ---
 
-## 💡 What You'll Find Here
-
-```text
-AI Projects        →  🧠 Intelligent features & automation
-Web Projects       →  🌐 Interfaces people can actually use
-Verilog Projects   →  🔌 RTL, digital logic & hardware
-Embedded Projects  →  ⚙️ Sensors, controllers & IoT
-Research           →  🔬 Experiments, simulations & technical work
-```
-
----
-
-## 🤝 Let's Build Something
-
-I'm interested in projects that combine **AI + software + electronics** to solve practical problems.
+## 🤝 Connect
 
 <div align="center">
-
-### `Ideas → Code → Circuits → Intelligent Systems`
 
 <a href="https://github.com/NimishaBorah">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
