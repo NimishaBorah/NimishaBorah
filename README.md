@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+silicon+%26+software;I+simulate+hardware+in+Verilog+by+day;I+let+AI+write+my+frontend+by+night;Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NimishaBorah&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
-  <a href="https://github.com/NimishaBorah?tab=followers"><img src="https://img.shields.io/github/followers/NimishaBorah?label=Followers&style=flat&color=00F7FF" /></a>
-</p>
-
 ---
 
 ### ⚡ About Me
