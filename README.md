@@ -198,13 +198,13 @@ An intelligent irrigation controller using sensor data to predict whether wateri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=NimishaBorah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimishaBorah&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=NimishaBorah&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak">
 
 </div>
 
@@ -215,7 +215,7 @@ An intelligent irrigation controller using sensor data to predict whether wateri
 <div align="center">
 
 <!-- Generate this animation with the GitHub Action described below -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/NimishaBorah/NimishaBorah/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
 
 </div>
 
@@ -265,7 +265,7 @@ I'm interested in projects that combine **AI + software + electronics** to solve
 
 ### `Ideas → Code → Circuits → Intelligent Systems`
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NimishaBorah">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
