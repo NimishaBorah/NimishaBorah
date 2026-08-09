@@ -22,18 +22,25 @@
 ## 👋 About Me
 
 I'm an **ECE student and builder** who enjoys working at the intersection of:
+<table> <tr> <td align="center" width="33%">
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🤖 AI                🌐 Web Apps             🔌 Hardware       │
-│   ML-powered ideas    Interactive UIs         Verilog / RTL      │
-│   Automation          Full-stack systems      Digital Logic      │
-│   Intelligent tools   Practical products      Embedded Systems   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+🤖 AI
 
+ML-powered ideas Automation Intelligent tools
+
+</td> <td align="center" width="33%">
+
+🌐 Web Apps
+
+Interactive UIs Full-stack systems Practical products
+
+</td> <td align="center" width="33%">
+
+🔌 Hardware
+
+Verilog / RTL Digital Logic Embedded Systems
+
+</td> </tr> </table>
 I like projects that don't stop at a demo — I want them to become **usable, understandable, and deployable systems**.
 
 ---
