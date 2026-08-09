@@ -16,7 +16,7 @@
 - 🔧 I design and simulate digital logic in **Verilog** — CPUs, FSMs, and other hardware fun
 - 🤖 I build **AI-powered websites and apps** — using LLMs to speed up how I design, code, and ship
 - 🧠 My "stack" quite literally goes from **silicon to software**
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: nimishaborah22@gmail.com
 
 ---
 
